@@ -1,0 +1,15 @@
+// IntelliSense settings
+{
+	"configurations": [
+		{
+			"name": "Fedora",
+			"intelliSenseMode": "linux-gcc-x64",
+			"includePath": [
+				"${workspaceFolder}/**"
+			],
+			"compilerPath": "/usr/lib64/ccache/g++",
+			"cppStandard": "c++23"
+		}
+	],
+	"version": 4
+}

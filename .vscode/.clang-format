@@ -1,0 +1,13 @@
+---
+BasedOnStyle: Microsoft
+UseTab: ForIndentation
+ColumnLimit: 0
+SeparateDefinitionBlocks: Always
+---
+Language: Cpp
+NamespaceIndentation: All
+PointerAlignment: Left
+ReferenceAlignment: Left
+PackConstructorInitializers: Never
+ConstructorInitializerIndentWidth: 0
+...
